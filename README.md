@@ -1,19 +1,11 @@
 <h1 align="center"><b>Hi , I'm Miguel Solis </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="[https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif](https://tenor.com/es-419/view/web-hack-hacker-hack-coder-gif-1982038743043620378)" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a Software Engineering student at Universidad Nacional Mayor de San Marcos, passionate about web development and data analysis.  
 I have knowledge in MySQL, React, and Express, and I am motivated to keep learning every day, applying my skills to projects that create real value.  
 I enjoy discovering new technologies, improving my problem-solving abilities, and working on solutions with positive impact.  
-
-- 🌱 I’m currently learning:
-  - Flask
-  - Advanced React patterns
-- 👯 I’m looking forward to collaborating on open-source projects.
-- ✔ Ask me about anything, I am happy to help.<br>
-- Outside tech, 💜 I enjoy listening to music, 🎮 playing video games, and 📖 reading about technology and science.
-- 📫 Reach out to me at: <a href="miguel.solis@example.com">miguel.solis@example.com</a>
 
 ## My Skills Include
 
