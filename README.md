@@ -32,11 +32,11 @@ I enjoy discovering new technologies, improving my problem-solving abilities, an
 <a href="https://www.linkedin.com/in/miguel-solis-cunza">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
-<a href="https://github.com/miguelsolis">
+<a href="https://github.com/iammiguelsolis">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=miguelsolis&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/miguelsolis)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=miguelsolis&theme=material-palenight)](https://github.com/miguelsolis)
+[![](https://github-readme-stats.vercel.app/api?username=iammiguelsolis&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/iammiguelsolis)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=iammiguelsolis&theme=material-palenight)](https://github.com/iammiguelsolis)
