@@ -26,10 +26,6 @@ Software Engineering student at **Universidad Nacional Mayor de San Marcos** wit
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -48,9 +44,6 @@ Software Engineering student at **Universidad Nacional Mayor de San Marcos** wit
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
-
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -63,10 +56,6 @@ Software Engineering student at **Universidad Nacional Mayor de San Marcos** wit
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
