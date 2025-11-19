@@ -1,43 +1,77 @@
-<h1 align="center"><b>Hi , I'm Miguel Solis </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/G4GdvEotPhoAAAAj/web-hack-hacker.gif" />
+<div align="center">
+  
+# 👋 Miguel Solis
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+### Software Engineer | Full Stack Developer | Data Enthusiast
 
-I am a Software Engineering student at Universidad Nacional Mayor de San Marcos, passionate about web development and data analysis.  
-I have knowledge in MySQL, React, and Express, and I am motivated to keep learning every day, applying my skills to projects that create real value.  
-I enjoy discovering new technologies, improving my problem-solving abilities, and working on solutions with positive impact.  
+*Building digital solutions that matter*
 
-## My Skills Include
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguel-solis-cunza)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/soli.smiguel)
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
+</div>
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</span>
+---
 
-## Check out my Social Media
+## 🚀 About Me
 
-<a href="https://www.linkedin.com/in/miguel-solis-cunza">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
-</a>
-<a href="https://www.instagram.com/soli.smiguel">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+Software Engineering student at **Universidad Nacional Mayor de San Marcos** with a passion for crafting elegant solutions to complex problems. I thrive on learning new technologies and building applications that create real impact.
 
-<h2>Github stats:</h2> 
+- 🔭 Currently exploring full-stack development and data engineering
+- 🌱 Always learning, always growing
+- 💡 Focused on clean code and scalable architecture
+- 🎯 Driven by curiosity and innovation
 
-[![](https://github-readme-stats.vercel.app/api?username=iammiguelsolis&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/iammiguelsolis)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=iammiguelsolis&theme=material-palenight)](https://github.com/iammiguelsolis)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammiguelsolis&layout=compact&theme=tokyonight)
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammiguelsolis&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iammiguelsolis&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammiguelsolis&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💬 Let's Connect!
+
+**Open to collaborations, opportunities, and interesting conversations**
+
+⭐️ From [Miguel Solis](https://github.com/iammiguelsolis)
+
+</div>
