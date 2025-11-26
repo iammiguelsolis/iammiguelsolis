@@ -2,7 +2,7 @@
   
 # 👋 Miguel Solis
 
-### Software Engineer | Full Stack Developer | Data Enthusiast
+### Software Engineer | Full Stack Developer | Data Analytics
 
 *Building digital solutions that matter*
 
