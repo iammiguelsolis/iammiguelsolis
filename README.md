@@ -45,9 +45,13 @@ Software Engineering student at **Universidad Nacional Mayor de San Marcos** wit
 
 <div align="center">
 
-### 💻 Languages & Database
+### 💻 Lenguajes
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
+</p>
+
+### 🗄️ Bases de Datos
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle&theme=dark" />
 </p>
 
@@ -75,12 +79,14 @@ Software Engineering student at **Universidad Nacional Mayor de San Marcos** wit
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iammiguelsolis&show_icons=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammiguelsolis&layout=compact&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammiguelsolis&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammiguelsolis&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=ffffff" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iammiguelsolis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammiguelsolis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea" height="180px" alt="Top Languages" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
