@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hola,%20soy%20Miguel%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Full%20Stack%20|%20Data%20Analytics&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hola,%20soy%20Miguel%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Building+digital+solutions+that+matter;Crafting+elegant+code+for+complex+problems;Exploring+Data+Engineering+%26+Full+Stack;Student+at+UNMSM" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Building+digital+solutions+that+matter;Crafting+clean+code+and+architectures;Focusing+on+Scalable+Web+Apps;Student+at+UNMSM" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,14 +27,14 @@
 ## 🚀 About Me
 
 <div align="center">
-<img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFzengxMXB2bWVrM2prb3N3eHlnZzNvdno0bzk3YXk5OGd6MG10NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif"/>
+  <img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFzengxMXB2bWVrM2prb3N3eHlnZzNvdno0bzk3YXk5OGd6MG10NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif"/>
 </div>
 
 Software Engineering student at **Universidad Nacional Mayor de San Marcos** with a passion for crafting elegant solutions to complex problems. I thrive on learning new technologies and building applications that create real impact.
 
-- 🔭 Currently exploring **Full-Stack Development** and **Data Engineering**
+- 🔭 Currently exploring **Advanced Full-Stack Architectures**
 - 🌱 Always learning, always growing
-- 💡 Focused on clean code and scalable architecture
+- 💡 Focused on clean code and scalable software
 - 🎯 Driven by curiosity and innovation
 
 <br clear="both"/>
@@ -46,27 +46,27 @@ Software Engineering student at **Universidad Nacional Mayor de San Marcos** wit
 <div align="center">
 
 ### 💻 Lenguajes
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
 </p>
 
 ### 🗄️ Bases de Datos
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Frameworks
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask&theme=dark" />
 </p>
 
 ### 🎨 Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,vercel,git,github&theme=dark" />
   <br>
   <img src="https://skillicons.dev/icons?i=vscode,idea,postman&theme=dark" />
