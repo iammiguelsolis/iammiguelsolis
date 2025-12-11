@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:667eea,100:764ba2&height=250&section=header&text=Hola,%20soy%20Miguel%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hola,%20soy%20Miguel%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <p align="center">
@@ -89,4 +89,4 @@ Software Engineering student at **Universidad Nacional Mayor de San Marcos** wit
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammiguelsolis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea" height="180px" alt="Top Languages" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
