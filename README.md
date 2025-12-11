@@ -52,7 +52,7 @@ Software Engineering student at **Universidad Nacional Mayor de San Marcos** wit
 
 ### 🗄️ Bases de Datos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Frameworks
