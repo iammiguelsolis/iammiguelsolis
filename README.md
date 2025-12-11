@@ -47,7 +47,7 @@ Software Engineering student at **Universidad Nacional Mayor de San Marcos** wit
 
 ### 💻 Lenguajes
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
 </p>
 
 ### 🗄️ Bases de Datos
