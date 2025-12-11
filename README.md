@@ -85,8 +85,15 @@ Software Engineering student at **Universidad Nacional Mayor de San Marcos** wit
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammiguelsolis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammiguelsolis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea" height="180px" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammiguelsolis&theme=tokyonight&background=0D1117&hide_border=true" height="180" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammiguelsolis&theme=tokyonight&background=0D1117&hide_border=true" height="180" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammiguelsolis&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=ffffff" alt="GitHub Streak"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>****
