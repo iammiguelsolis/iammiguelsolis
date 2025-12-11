@@ -96,4 +96,4 @@ Software Engineering student at **Universidad Nacional Mayor de San Marcos** wit
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammiguelsolis&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>****
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
