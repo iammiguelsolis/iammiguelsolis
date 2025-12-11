@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFzengxMXB2bWVrM2prb3N3eHlnZzNvdno0bzk3YXk5OGd6MG10NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Building+digital+solutions+that+matter;Crafting+elegant+code+for+complex+problems;Exploring+Data+Engineering+%26+Full+Stack;Student+at+UNMSM" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1" width="100%">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFzengxMXB2bWVrM2prb3N3eHlnZzNvdno0bzk3YXk5OGd6MG10NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" width="100%">
 
 ## 🚀 About Me
 
