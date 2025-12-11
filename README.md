@@ -22,12 +22,12 @@
   </a>
 </p>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFzengxMXB2bWVrM2prb3N3eHlnZzNvdno0bzk3YXk5OGd6MG10NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1" width="100%">
 
 ## 🚀 About Me
 
 <div align="center">
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFzengxMXB2bWVrM2prb3N3eHlnZzNvdno0bzk3YXk5OGd6MG10NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif"/>
 </div>
 
 Software Engineering student at **Universidad Nacional Mayor de San Marcos** with a passion for crafting elegant solutions to complex problems. I thrive on learning new technologies and building applications that create real impact.
