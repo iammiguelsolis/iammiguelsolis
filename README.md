@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hola,%20soy%20Miguel%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Cloud%20%26%20Backend&descAlignY=55&descSize=18" width="100%"/>
-</div>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Building+Enterprise+Cloud+Solutions;Focusing+on+Backend+Architecture;Crafting+Scalable+Business+Logic;Student+at+UNMSM" alt="Typing SVG" />
