@@ -1,0 +1,31 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+  <title id="title">Miguel Solis — Software Engineer in Training</title>
+  <desc id="desc">Backend, automatización y cloud. Portada en tonos azul y violeta con una ventana de código.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1222"/><stop offset="1" stop-color="#21183d"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="960" height="280" rx="24" fill="url(#bg)"/>
+  <rect width="960" height="280" rx="24" fill="url(#grid)"/>
+  <circle cx="865" cy="35" r="160" fill="#8b5cf6" opacity=".07"/>
+  <circle cx="860" cy="35" r="115" fill="none" stroke="#a78bfa" stroke-opacity=".15"/>
+  <rect x="48" y="51" width="34" height="4" rx="2" fill="url(#accent)"/>
+  <text x="48" y="91" fill="#9ba9c4" font-family="Arial, sans-serif" font-size="13" letter-spacing="3">HOLA, SOY</text>
+  <text x="45" y="150" fill="#f5f5ff" font-family="Arial, sans-serif" font-size="54" font-weight="700">Miguel Solis<tspan fill="#67e8f9">.</tspan></text>
+  <text x="48" y="184" fill="#c4b5fd" font-family="Arial, sans-serif" font-size="19">Software Engineer in Training</text>
+  <text x="48" y="231" fill="#9ba9c4" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">BACKEND / AUTOMATIZACIÓN / CLOUD</text>
+  <g transform="translate(605 65)">
+    <rect width="303" height="152" rx="12" fill="#0d1426" stroke="#37405b"/>
+    <path d="M0 33H303" stroke="#37405b"/>
+    <circle cx="18" cy="17" r="4" fill="#fb7185"/><circle cx="33" cy="17" r="4" fill="#fbbf24"/><circle cx="48" cy="17" r="4" fill="#34d399"/>
+    <text x="236" y="21" fill="#71809b" font-size="10" font-family="monospace">hello.ts</text>
+    <g font-family="monospace" font-size="14">
+      <text x="22" y="65" fill="#c4b5fd">const <tspan fill="#e2e8f0">journey = {</tspan></text>
+      <text x="36" y="91" fill="#9ba9c4">  mindset: <tspan fill="#67e8f9">"always learning"</tspan>,</text>
+      <text x="36" y="117" fill="#9ba9c4">  next: <tspan fill="#67e8f9">"keep building"</tspan></text>
+      <text x="22" y="139" fill="#e2e8f0">};</text>
+    </g>
+  </g>
+  <rect x="48" y="269" width="864" height="2" rx="1" fill="url(#accent)" opacity=".65"/>
+</svg>
