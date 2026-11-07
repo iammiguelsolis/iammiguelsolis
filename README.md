@@ -1,99 +1,52 @@
 <div align="center">
   <h1>MIGUEL ALONSO SOLIS CUNZA</h1>
-  
-  <h3>Software Engineer | Cloud & Backend</h3>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Building+Enterprise+Cloud+Solutions;Focusing+on+Backend+Architecture;Crafting+Scalable+Business+Logic;Student+at+UNMSM" alt="Typing SVG" />
-  </a>
+  <h3>Software Engineer in Training | Automatización, DevSecOps y Cloud</h3>
+  <p>Backend con Java y Node.js · GitHub Actions · GitHub Agents · Azure</p>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-solis-cunza" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/miguel-solis-cunza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://www.instagram.com/soli.smiguel" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <a href="https://github.com/iammiguelsolis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   &nbsp;
-  <a href="https://github.com/iammiguelsolis" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://www.instagram.com/soli.smiguel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1" width="100%">
+---
 
-## 🚀 About Me
+## Sobre mí
 
-<div align="center">
-  <img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFzengxMXB2bWVrM2prb3N3eHlnZzNvdno0bzk3YXk5OGd6MG10NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif"/>
-</div>
+Soy estudiante de Ingeniería de Software en la **Universidad Nacional Mayor de San Marcos** y Practicante Pre Profesional de Ingeniería de Software en **Mibanco**. Me interesa construir soluciones que conecten backend, automatización de QA, DevSecOps, cloud e inteligencia artificial aplicada al desarrollo.
 
-Software Engineering student at **Universidad Nacional Mayor de San Marcos** focused on building robust enterprise systems. I specialize in backend architecture and cloud solutions, aiming to solve complex business problems through clean and efficient code.
+Actualmente participo en iniciativas para mejorar la eficiencia, trazabilidad y estandarización de procesos de calidad. También colaboro en proyectos con GitHub Agents y herramientas de automatización.
 
-- 🔭 Currently working on **Enterprise Cloud Solutions & Backend Systems**
-- 🌱 Deepening knowledge in **Java Spring Boot & Microservices**
-- 💡 Focused on **Business Logic & Scalability**
-- 🎯 Driven by curiosity and technical excellence
+## Experiencia reciente
 
-<br clear="both"/>
+- **Practicante Pre Profesional de Ingeniería de Software — Mibanco** (mar. 2026–actualidad). Iniciativas de automatización, QA y desarrollo de software.
+- **SAP BTP Developer Trainee — UpperSAP** (ene. 2026–mar. 2026).
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1" width="100%">
+## Proyectos e iniciativas
 
-## 🛠️ Tech Stack
+- **TestifyQA:** agente de IA sobre GitHub Agents que apoya la generación de casos de prueba desde historias de usuario, criterios de aceptación y documentación funcional/técnica. El flujo integra Jira y genera una matriz Excel para revisión humana y carga controlada a Xray.
+- **ApiBro:** agente orientado a apoyar la creación de microservicios a partir de contratos y definiciones funcionales.
+- **KREDIA:** plataforma de onboarding de créditos para PyMEs. Participé en el frontend con React, rutas protegidas con JWT, Context API y Axios, como parte de un equipo de No Country.
+- **Simulador de planificación de procesos:** proyecto académico en C++ y SFML para comparar FCFS, SJF, Round Robin y prioridades, con métricas exportadas a CSV.
 
-<div align="center">
+## Certificación y comunidad
 
-### 💻 Lenguajes
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
-</p>
+- **GitHub Actions (GH-200), Microsoft** — expedida en junio de 2026.
+- Ponente en ENEISOFT XVI sobre CI/CD con GitHub Actions y Docker.
+- Organizador voluntario en ENEISOFT XV (jul.–nov. 2025).
 
-### 🗄️ Bases de Datos
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
-</p>
+## Tecnologías
 
-### ⚙️ Backend & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask&theme=dark" />
-</p>
+**Backend:** Java, Node.js  
+**Automatización y DevSecOps:** GitHub Actions, GitHub Agents  
+**Cloud:** Azure Functions, Azure Logic Apps  
+**QA:** Jira, Xray, generación y gestión de casos de prueba  
+**Otros:** Python, React, C++, Docker, SFML
 
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
-</p>
+## Formación
 
-### ☁️ Cloud, DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,vercel,git,github&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman&theme=dark" />
-</p>
+Ingeniería de Software — **Universidad Nacional Mayor de San Marcos** (2023–2027).
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1" width="100%">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammiguelsolis&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammiguelsolis&theme=tokyonight&background=0D1117&hide_border=true" height="180" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammiguelsolis&theme=tokyonight&background=0D1117&hide_border=true" height="180" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammiguelsolis&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=ffffff" alt="GitHub Streak"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
